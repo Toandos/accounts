@@ -37,7 +37,6 @@ jobs:
             type=sha
 
       - name: Build and push image
-        if: steps.changes.outputs.service == 'true'
         uses: docker/build-push-action@v7
         with:
           context: .
