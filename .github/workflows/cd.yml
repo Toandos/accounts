@@ -31,7 +31,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v6
         with:
-          images: ghcr.io/toandos/accounts-ui
+          images: ghcr.io/toandos/${{ github.event.repository.name }}
           tags: |
             type=raw,value=latest
             type=sha
