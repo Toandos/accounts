@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/Toandos/accounts/compare/v1.0.0...v1.0.1) (2026-08-15)
+
+
+### Bug Fixes
+
+* **chart:** Remove unnecessary files ([aa73a0e](https://github.com/Toandos/accounts/commit/aa73a0e767f4e88d97fed61292f0df8294bf9cb2))
+
 ## 1.0.0 (2026-08-15)
 
 
