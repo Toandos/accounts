@@ -46,7 +46,7 @@ jobs:
       - name: Package Helm chart
         run: |
           helm package ./chart \
-            --version "${{ inputs.version }}"
+            --version "${{ inputs.version }}" \
             --app-version "${{ inputs.version }}"
 
       - name: Push Helm chart
