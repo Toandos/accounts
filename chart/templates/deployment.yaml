@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: accounts-ui
-          image: ghcr.io/toandos/accounts-ui:latest
+          image: ghcr.io/toandos/accounts-ui:{{ .Chart.AppVersion }}
           ports:
             - containerPort: 3000
           resources:
