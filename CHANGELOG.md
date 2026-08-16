@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/Toandos/accounts/compare/v1.0.3...v1.0.4) (2026-08-16)
+
+
+### Bug Fixes
+
+* **github:** Typo ([a576a2a](https://github.com/Toandos/accounts/commit/a576a2a9b2a122c4217b7ad39a078a26a3c1fc43))
+
 ## [1.0.3](https://github.com/Toandos/accounts/compare/v1.0.2...v1.0.3) (2026-08-16)
 
 
