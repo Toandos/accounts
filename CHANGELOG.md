@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/Toandos/accounts/compare/v1.0.2...v1.0.3) (2026-08-16)
+
+
+### Bug Fixes
+
+* **chart:** Provide and use app version for image ([2e13aef](https://github.com/Toandos/accounts/commit/2e13aefe504df872bf2e01f21c4e770144ae07b2))
+
 ## [1.0.2](https://github.com/Toandos/accounts/compare/v1.0.1...v1.0.2) (2026-08-16)
 
 
