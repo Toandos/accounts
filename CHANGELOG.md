@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/Toandos/accounts/compare/v1.0.1...v1.0.2) (2026-08-16)
+
+
+### Bug Fixes
+
+* **chart:** Use provided default service account ([3c66f2e](https://github.com/Toandos/accounts/commit/3c66f2e18466ab4ed7d8a8793f22848c7cf23346))
+
 ## [1.0.1](https://github.com/Toandos/accounts/compare/v1.0.0...v1.0.1) (2026-08-15)
 
 
