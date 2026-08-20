@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/Toandos/accounts/compare/v1.0.4...v1.0.5) (2026-08-20)
+
+
+### Bug Fixes
+
+* Image name inconsistent ([e6d7cb3](https://github.com/Toandos/accounts/commit/e6d7cb389389a4dbb32f87728e89b79500b5de13))
+
 ## [1.0.4](https://github.com/Toandos/accounts/compare/v1.0.3...v1.0.4) (2026-08-16)
 
 
