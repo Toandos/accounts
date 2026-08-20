@@ -38,10 +38,10 @@ jobs:
       - name: Build and push image
         uses: docker/build-push-action@v7
         with:
-          context: ./app
+          context: ./webapp
           push: true
           tags: |
-            ghcr.io/toandos/accounts:${{ inputs.version }}
+            ghcr.io/toandos/accounts-webapp:${{ inputs.version }}
 
       - name: Package Helm chart
         run: |

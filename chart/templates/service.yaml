@@ -1,10 +1,10 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: accounts-ui
+  name: accounts-webapp
 spec:
   selector:
-    app: accounts-ui
+    app: accounts-webapp
   ports:
     - port: 3000
       targetPort: 3000
